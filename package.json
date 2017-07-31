@@ -1,0 +1,28 @@
+{
+  "name": "aritgeo",
+  "version": "1.0.0",
+  "description": "A simple function to check for arithmetic or geometrical progressions",
+  "main": "aritGeo.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babadee001/aritGeo.git"
+  },
+  "keywords": [
+    "arithmetic",
+    "geometric",
+    "progession"
+  ],
+  "author": "temidayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babadee001/aritGeo/issues"
+  },
+  "homepage": "https://github.com/babadee001/aritGeo#readme",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
